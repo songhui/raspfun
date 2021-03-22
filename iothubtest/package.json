@@ -1,0 +1,16 @@
+{
+  "name": "iothubtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure-iot-device-mqtt": "^1.15.3",
+    "azure-iothub": "^1.13.1"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu3;SharedAccessKey=k/w1zhNAJQrCG9pOLhEpA79Zxf2VY+cgEKQTvO0PF/U="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu4;SharedAccessKey=p9tc7jCNxuc8Dz6vfha0oqRskbN3/jxm6sKcrR5kgpk="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu5;SharedAccessKey=HaM3BGqsREBjLQuVY1DFF/buYyLnZmt4Xh5Ijxp1b4A="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu6;SharedAccessKey=Q5FMLJG2R6+Cj7uPzzNR2OWNoP7qNLX+OT/AigTc+HM="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu7;SharedAccessKey=K9SiWgOVCa51Cn489fA9ZXdgeSjSWzIJebvnXsCECH4="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu8;SharedAccessKey=4maP+SkLKmM4TZluwhhggOW/zusfIh4YG4Yxtvg73LQ="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu9;SharedAccessKey=kHXY/Klez2qPWXBrZFDduc9ovNjDgMLqzSmC0GC5Hi0="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu10;SharedAccessKey=rQxxerdJGEnEEQoqvHpdq39qPIY6fbrc3ibl7fo3eUU="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu11;SharedAccessKey=+PJOSG/6ODRwE2rmFy+DqLDJWuMevLgN3IpNrAS4Epk="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu12;SharedAccessKey=u0GDpY9TH+pn+JGFuXfOe28uGqno90z8oCihJ4XCuOA="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu13;SharedAccessKey=tl2N1Bv7LPycgyVMdpc9KLaFAyP9an6wq4nV59Jbmac="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu14;SharedAccessKey=LpszEVxAXGugERhnNM2t5aPh6sSjT93R/9l1PfcNQK0="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu15;SharedAccessKey=yYQedUU8uYrqyVaUT2HDWkxgrKMI30KVuFRO/qqXUpU="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu16;SharedAccessKey=+0X51yTP/S+S1usDd5MZJZQoZ7icKQNUhBUyvng3SyU="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu17;SharedAccessKey=kCaQglk+Vd/lPuO7QRp2CYlGZXqFqKsHYWo5bZ+WIVs="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu18;SharedAccessKey=4pk1GhReopL8O1V5d0wIJYBb1e1pAphda6ZkuSNpxb8="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+^CThis command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu20;SharedAccessKey=Ae44Agc8KmTzrVdMjOP/05jZe6+qCz1MURVnKM63mic="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu21;SharedAccessKey=okOWyWJOOLe09s42wd4PprxDWhgKjQhI9PR7U1JpwGg="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu22;SharedAccessKey=JPJE/2p2yjon6zMUFLSyyIIS2avwVMovopRnyTJvYBA="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu23;SharedAccessKey=BzbKU1xNDEUg+nKiTYTqgB6mnfsdeonFpnnDrUUetYA="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu24;SharedAccessKey=+f0ebEgGg3IuJqt+VB6jT5pMLlres2mwdBpumWT5xJ4="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu25;SharedAccessKey=OXzPPbFg8Rkw1euUkiZ+NeSXUX/TBy1R5bjvXFzDD0I="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu26;SharedAccessKey=CgIB+njjrzi2wQfoe92ceC+8PJdcDjd+7PeZR7qEUpM="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu27;SharedAccessKey=Jzj+aWnz+X1zHdFMQMPNkylz48wlz8/oQs0RfxQYdao="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu28;SharedAccessKey=KLtRwC8PVKfm2IjEZfgmWKR3dNROER5Z/j13s90GxFI="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu29;SharedAccessKey=DuMgqb/ypgUgzA+lPQ6Mz4rkOZfmcdOergr9Uo00lrk="
+}
+This command has been deprecated and will be removed in a future release. Use 'az iot hub device-identity connection-string show' instead.
+{
+  "connectionString": "HostName=EnactHubStandard.azure-devices.net;DeviceId=TelluSimu30;SharedAccessKey=9CadzqdtuTDwOTHCri89+wTOuL+ZlW0/Gh94tBZDf6U="
+}
